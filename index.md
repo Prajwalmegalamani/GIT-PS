@@ -11,6 +11,7 @@ Commands for VS code Git terminal
 - git status -- to check status 
 - git add . -- save all files to git(staging)
 - git commit -m "insert Message here" -- To update the message for the changes
+- git log -- logs of all commits
 - git remote add origin url.git -- select a repo(copy link address with .git)
 - git remote add origin -- the repo on you local system are the same
 - git push origin master -- push the files
