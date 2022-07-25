@@ -13,5 +13,6 @@ Commands for VS code Git terminal
 - git commit -m "insert Message here" -- To update the message for the changes
 - git log -- logs of all commits
 - git remote add origin url.git -- select a repo(copy link address with .git)
+- git remote -v -- check the remote cpnnection to repo
 - git remote add origin -- the repo on you local system are the same
 - git push origin master -- push the files
